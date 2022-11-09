@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="83ad05d6-6b9b-47af-a016-5321aa76f133" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SendRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SendRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetAccessToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetAccessToken.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SocketServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/sakurai.koki/Private-practice/JavaSocket&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -56,7 +57,8 @@
       <workItem from="1667777585200" duration="384000" />
       <workItem from="1667866157832" duration="4113000" />
       <workItem from="1667870348930" duration="2138000" />
-      <workItem from="1667883412104" duration="2501000" />
+      <workItem from="1667883412104" duration="4376000" />
+      <workItem from="1667954735048" duration="7870000" />
     </task>
     <servers />
   </component>
